@@ -1,13 +1,14 @@
 {
   "seo": {
     "type": "website",
-    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/a5d890ba-e5b8-471e-8b77-7412c1d4fa56",
-    "title": "Storefront",
+    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10988/6df129ec-d2a1-4c49-8064-b8b859eda642",
+    "title": "Loja Demo N49Shop",
     "jsonLDs": [],
     "noIndexing": false,
-    "description": "Improve your page performance with deco.cx ",
-    "titleTemplate": "%s | deco.cx",
-    "descriptionTemplate": "%s | Deco.cx"
+    "description": "Loja Demo N49Shop com deco.cx ",
+    "titleTemplate": "%s | Loja Demo N49Shop",
+    "descriptionTemplate": "%s | Loja Demo N49Shop",
+    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10988/49568d31-df7c-4f11-b39b-5593f7e1daa2"
   },
   "theme": {
     "__resolveType": "Deco"
