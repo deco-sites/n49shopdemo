@@ -191,6 +191,12 @@
       ]
     },
     {
+      "__resolveType": "site/sections/Social/InstagramPosts.tsx",
+      "facebookToken": "IGQWRNNGdsSFdpaDk4RUFhNDgxcmtCcTFWMFBRamtfaWdYemlUVkhHZAjZAfY05EX2h5aWRBLWFmOU5PaW8zb3JnWnk4TDNYRGdIQ3NMMG5PcC1oR1dMSGs1Qk1uajdJYVh2U1ZAEQnNDbHZAvRjRXUXRmNVBKM1VDb0lCYUFra1hSbmwwdwZDZD",
+      "nposts": 10,
+      "title": "Instagram"
+    },
+    {
       "__resolveType": "site/sections/Newsletter/Newsletter.tsx",
       "label": "Sign up",
       "placeholder": "Email address",
