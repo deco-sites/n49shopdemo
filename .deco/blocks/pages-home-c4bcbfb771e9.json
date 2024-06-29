@@ -11,15 +11,15 @@
       "__resolveType": "site/sections/Images/Carousel.tsx",
       "images": [
         {
-          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/e5b17750-7164-45a5-9d3a-68076ab407db",
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10988/92cd90d4-64c1-412f-b1a1-f5a0e1b6c6f8",
           "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/f50d5ec4-c329-44c0-b504-f74155260d41",
-          "alt": "valentines",
           "action": {
-            "title": "Valentine's Day",
-            "subTitle": "Celebrate Love with Our Exclusive Offers",
             "href": "#",
-            "label": "Enjoy!"
-          }
+            "title": "Descontos Imperdiveis",
+            "subTitle": "até 80% off em toda a loja",
+            "label": "Aproveite"
+          },
+          "alt": "banner demo 1"
         },
         {
           "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/e5b17750-7164-45a5-9d3a-68076ab407db",

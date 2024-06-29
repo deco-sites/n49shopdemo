@@ -2,8 +2,8 @@
   "items": [
     {
       "@type": "SiteNavigationElement",
-      "url": "/deals",
-      "name": "Deals",
+      "url": "/departamentos",
+      "name": "Departamentos",
       "children": [
         {
           "image": [],
@@ -19,26 +19,26 @@
     },
     {
       "@type": "SiteNavigationElement",
-      "url": "/valentines-day",
-      "name": "Valentine's Day",
+      "url": "/masculino",
+      "name": "Masculino",
       "children": []
     },
     {
       "@type": "SiteNavigationElement",
-      "url": "/woman",
-      "name": "Woman",
+      "url": "/feminino",
+      "name": "Feminino",
       "children": []
     },
     {
       "@type": "SiteNavigationElement",
-      "url": "/men",
-      "name": "Men",
+      "url": "/esporte",
+      "name": "Esporte",
       "children": []
     },
     {
       "@type": "SiteNavigationElement",
-      "url": "/clearance",
-      "name": "Clearance",
+      "url": "/outlet",
+      "name": "Outlet",
       "children": []
     },
     {
