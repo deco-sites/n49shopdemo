@@ -38,7 +38,7 @@ function SignIn({ variant }: { variant: "mobile" | "desktop" }) {
         aria-label="Login"
       >
         <Icon id="account_circle" />
-        {variant === "desktop" && <span>Sign in</span>}
+        {variant === "desktop" && <span>Entrar</span>}
       </a>
       <a
         class={clx(
@@ -50,7 +50,7 @@ function SignIn({ variant }: { variant: "mobile" | "desktop" }) {
         aria-label="Account"
       >
         <Icon id="account_circle" />
-        {variant === "desktop" && <span>My account</span>}
+        {variant === "desktop" && <span>Minha Conta</span>}
       </a>
       <script
         type="module"
