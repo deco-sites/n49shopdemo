@@ -2,7 +2,7 @@
   "__resolveType": "site/sections/Theme/Theme.tsx",
   "buttonStyle": {
     "--border-btn": "1px",
-    "--rounded-btn": "99999px",
+    "--rounded-btn": "0",
     "--btn-focus-scale": "1",
     "--animation-btn": "0.25s"
   },
@@ -24,7 +24,7 @@
             "weight": "700"
           }
         ],
-        "family": "Inter Tight"
+        "family": "Poppins"
       }
     ]
   },
@@ -38,19 +38,21 @@
   },
   "mode": "dark",
   "mainColors": {
-    "primary": "#27AE6B",
+    "primary": "#0B0BAD",
     "base-100": "#ffffff",
-    "secondary": "#FAEABC",
+    "secondary": "#0d6efd",
     "success": "#219259",
     "warning": "#a39e0f",
     "error": "#d10a0a",
     "info": "#3c4cc8",
-    "neutral": "#000000"
+    "neutral": "#000000",
+    "tertiary": "#ffffff"
   },
   "complementaryColors": {
     "primary-content": "#ffffff",
     "base-200": "#FAFAFA",
     "base-300": "#5C5C5C",
-    "base-content": "#000000"
+    "base-content": "#000000",
+    "secondary-content": "#ffffff"
   }
 }
