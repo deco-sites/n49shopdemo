@@ -191,7 +191,7 @@
       ]
     },
     {
-      "__resolveType": "Preview /sections/NewSection.tsx"
+      "__resolveType": "Preview site/sections/Social/InstagramElfsight.tsx"
     },
     {
       "__resolveType": "site/sections/Newsletter/Newsletter.tsx",
@@ -211,7 +211,13 @@
       }
     },
     {
+      "__resolveType": "Preview site/sections/Social/WhatsApp.tsx"
+    },
+    {
       "__resolveType": "Footer"
+    },
+    {
+      "__resolveType": "Preview site/sections/Social/InstagramElfsight.tsx"
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
