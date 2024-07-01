@@ -215,9 +215,6 @@
     },
     {
       "__resolveType": "Footer"
-    },
-    {
-      "__resolveType": "Preview site/sections/Social/InstagramElfsight.tsx"
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
