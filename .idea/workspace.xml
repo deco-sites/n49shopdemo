@@ -13,9 +13,9 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2iYye6cHyIsgZhx9VejKq3mdEfa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,6 +25,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "deno.use.library": "true",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "//wsl.localhost/Ubuntu/srv/www/decoapps/n49shopdemo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -51,6 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719681898080</updated>
       <workItem from="1719681899715" duration="5629000" />
+      <workItem from="1719843539395" duration="709000" />
     </task>
     <servers />
   </component>
