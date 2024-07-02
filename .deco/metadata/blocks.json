@@ -139,31 +139,15 @@
     "blockType": "sections",
     "__resolveType": "site/sections/Header/Header.tsx"
   },
-  "/.deco/blocks/Preview%20%2Fsections%2FSocial%2FInstagramPosts.tsx.json": {
-    "blockType": "sections",
-    "__resolveType": "site/sections/Social/InstagramPosts.tsx"
-  },
   "/.deco/blocks/Preview%20%2Fsections%2FNewsletter%2FNewsletter.tsx.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Newsletter/Newsletter.tsx"
-  },
-  "/.deco/blocks/Preview%20%2Fsections%2FNewSection.tsx.json": {
-    "blockType": "sections",
-    "__resolveType": "site/sections/NewSection.tsx"
-  },
-  "/.deco/blocks/Preview%20site%2Fsections%2FInstagramFeed.tsx.json": {
-    "blockType": "sections",
-    "__resolveType": "site/sections/InstagramFeed.tsx"
   },
   "/.deco/blocks/Preview%20site%2Fsections%2FSocial%2FWhatsApp.tsx.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Social/WhatsApp.tsx"
   },
   "/.deco/blocks/Preview%20site%2Fsections%2FSocial%2FInstagramElfsight.tsx.json": {
-    "blockType": "sections",
-    "__resolveType": "site/sections/Social/InstagramElfsight.tsx"
-  },
-  "/.deco/blocks/Preview%20%2Fsections%2FSocial%2FInstagramElfsight.tsx.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Social/InstagramElfsight.tsx"
   }
