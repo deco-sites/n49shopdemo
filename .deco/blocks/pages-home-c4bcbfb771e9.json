@@ -191,6 +191,10 @@
       ]
     },
     {
+      "__resolveType": "site/sections/Social/InstagramElfsight.tsx",
+      "codeElfsight": "1d9c085a-00a7-42ca-ac92-09fb2995b410"
+    },
+    {
       "__resolveType": "site/sections/Newsletter/Newsletter.tsx",
       "label": "Sign up",
       "placeholder": "Email address",
