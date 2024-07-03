@@ -6,7 +6,11 @@
       "name": "Departamentos",
       "children": [
         {
-          "image": [],
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10988/81a72de1-3492-4408-8adf-b7eb1b2b73d3"
+            }
+          ],
           "children": [],
           "name": "Hello"
         },
@@ -27,7 +31,12 @@
       "@type": "SiteNavigationElement",
       "url": "/feminino",
       "name": "Feminino",
-      "children": []
+      "children": [],
+      "image": [
+        {
+          "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10988/f6a7fb73-ae35-435c-b20e-65ec1c1fd443"
+        }
+      ]
     },
     {
       "@type": "SiteNavigationElement",
@@ -42,10 +51,10 @@
       "children": []
     },
     {
-      "@type": "SiteNavigationElement",
-      "url": "/activities",
-      "name": "Activities",
-      "children": []
+      "children": [],
+      "image": [],
+      "name": "Sobre Nós",
+      "url": "/sobre-nos"
     }
   ],
   "__resolveType": "commerce/loaders/navbar.ts"

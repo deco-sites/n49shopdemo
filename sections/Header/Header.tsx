@@ -100,7 +100,7 @@ const Desktop = (
 
       <div class="flex justify-between items-center text-base-300">
         <ul class="flex">
-          {navItems?.slice(0, 4).map((item) => <NavItem item={item} />)}
+          {navItems?.slice(0, 10).map((item) => <NavItem item={item} />)}
         </ul>
         <div>
           {/* ship to */}
