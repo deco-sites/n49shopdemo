@@ -1,5 +1,7 @@
 # Storefront starter by deco.cx
 
+"apps/": "https://cdn.jsdelivr.net/gh/deco-cx/apps@0.46.2/",
+
 A fully featured starter to help you customize and deploy an ecommerce website.
 in minutes.
 
