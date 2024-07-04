@@ -191,21 +191,28 @@
       ]
     },
     {
+      "__resolveType": "site/sections/Social/InstagramElfsight.tsx",
+      "codeElfsight": "1d9c085a-00a7-42ca-ac92-09fb2995b410"
+    },
+    {
       "__resolveType": "site/sections/Newsletter/Newsletter.tsx",
-      "label": "Sign up",
-      "placeholder": "Email address",
+      "label": "Inscreva-se",
+      "placeholder": "Informe seu endereço de e-mail",
       "empty": {
-        "title": "Get top deals, latest trends, and more.",
-        "description": "Receive our news and promotions in advance. Enjoy and get 10% off your first purchase. For more information click here."
+        "title": "Obtenha as melhores ofertas, as últimas tendências e muito mais.",
+        "description": "Receba nossas novidades e promoções com antecedência. Aproveite e ganhe 10% de desconto na sua primeira compra."
       },
       "success": {
-        "title": "Thank you for subscribing!",
-        "description": "You’re now signed up to receive the latest news, trends, and exclusive promotions directly to your inbox. Stay tuned!"
+        "title": "Obrigado por se inscrever!",
+        "description": "Agora você está inscrito para receber as últimas notícias, tendências e promoções exclusivas diretamente em sua caixa de entrada. Fique atento!"
       },
       "failed": {
-        "title": "Oops!. Something went wrong!",
-        "description": "Something went wrong. Please try again. If the problem persists, please contact us."
+        "title": "Ops!. Algo deu errado!",
+        "description": "Algo deu errado. Por favor, tente novamente. Se o problema persistir, entre em contato conosco."
       }
+    },
+    {
+      "__resolveType": "Preview site/sections/Social/WhatsApp.tsx"
     },
     {
       "__resolveType": "Footer"
